@@ -1,2 +1,2 @@
-# MDN-html-table-advanced
-MDN Learning area assestment for HTML table advanced
+# mdn-html-table-advanced
+MDN Learning area assesstment for HTML table advanced
